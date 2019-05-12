@@ -38,6 +38,9 @@ INSERT INTO qcril_emergency_source_mcc_table VALUES('510','118','','');
 INSERT INTO qcril_emergency_source_mcc_table VALUES('510','199','','');
 INSERT INTO qcril_emergency_source_mcc_table VALUES('510','113','','');
 INSERT INTO qcril_emergency_source_mcc_table VALUES('510','112','','');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 begin*/
+INSERT INTO qcril_emergency_source_mcc_table VALUES('510','119','','');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 end*/
 INSERT INTO qcril_emergency_source_mcc_table VALUES('452','112','','');
 INSERT INTO qcril_emergency_source_mcc_table VALUES('452','113','','');
 INSERT INTO qcril_emergency_source_mcc_table VALUES('452','114','','');
@@ -125,6 +128,9 @@ INSERT INTO qcril_emergency_source_voice_table VALUES('510','118','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('510','199','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('510','113','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('510','112','','full');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 begin*/
+INSERT INTO qcril_emergency_source_voice_table VALUES('510','119','','full');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 end*/
 INSERT INTO qcril_emergency_source_voice_table VALUES('452','112','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('452','113','','full');
 INSERT INTO qcril_emergency_source_voice_table VALUES('452','114','','full');
@@ -190,6 +196,9 @@ INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('510','118','','');
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('510','199','','');
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('510','113','','');
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('510','112','','');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 begin*/
+INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('510','119','','');
+/*huaqin add for 1285954 by zhengconglong 2019.3.14 end*/
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('452','112','','');
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('452','113','','');
 INSERT INTO qcril_emergency_source_hard_mcc_table VALUES('452','114','','');
